@@ -1,0 +1,24 @@
+
+
+body {
+    padding: 20px;
+}
+
+td{
+    padding:5px 10px 10px 5px;
+}
+
+#large {
+    width: 100%;
+    display: block;
+}
+
+#small{
+    display:block;
+}
+
+
+/* Hide/rearrange for smaller screens */
+@media screen and (max-width: 700px) {
+    
+}
